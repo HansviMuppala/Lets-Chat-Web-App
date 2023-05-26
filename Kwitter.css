@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background: linear-gradient(#48AAAd 50%, #022d36 25%);
+    margin-top: 200px;
+}
+#login_button{
+    background-color: aquamarine;
+    color: indigo;
+    size: 35px;
+    border-radius: 15px;
+    height: 30px;
+    width: 55px;
+}
+#user_name{
+    background-color: lightgray;
+    border-radius: 20px;
+    width: 170px;
+    height: 40px;
+}
+h1{
+    font-size: 30px;
+    color: darkmagenta;
+}
